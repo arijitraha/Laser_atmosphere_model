@@ -1,11 +1,8 @@
 import matplotlib
-
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 from numba import njit
-from scipy.integrate import solve_ivp
-from scipy.optimize import root
 import streamlit as st
 
 st.set_page_config(page_title="Laser & Atmospheric Dynamics", layout="wide")
