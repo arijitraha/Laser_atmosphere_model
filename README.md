@@ -2,7 +2,7 @@
 
 An interactive, high-performance web application built with **Streamlit** to analyze bifurcation phenomena and phase space dynamics in laser physics and atmospheric moisture models. 
 
-👉 **Live App:** [View on Streamlit Community Cloud](https://your-app-url.streamlit.app) *(Replace with your actual link after deploying!)*
+👉 **Live App:** [View on Streamlit Community Cloud](https://github.com/arijitraha/Laser_atmosphere_model) 
 
 ---
 
