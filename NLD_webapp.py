@@ -306,7 +306,7 @@ with st.spinner("Calculating critical thresholds and plotting bifurcation sweep.
     ax_phase.set_xlabel(r"Column Humidity $H$", fontsize=9, labelpad=8)
     ax_phase.set_ylabel(r"Rainfall Intensity $R$", fontsize=9, labelpad=8)
     ax_phase.set_title(
-        fr"Phase Portrait ($a = {a_float:.2f} < a_{{c1}}$)", fontsize=10
+        fr"Phase Portrait ($a = {a_float:.2f})", fontsize=10
     )
     ax_phase.tick_params(axis="both", which="major", labelsize=8)
     ax_phase.grid(True, linestyle=":", alpha=0.6)
